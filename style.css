@@ -120,11 +120,11 @@ body {
 }
 
 .app-download:nth-child(1) {
-    background-image: url(applestorelogo.png);
+    background-image: url(./img/applestorelogo.png);
 }
 
 .app-download:nth-child(2) {
-    background-image: url(getitongoogleplay.png);
+    background-image: url(./img/getitongoogleplay.png);
 }
 
 /* media */
